@@ -1,5 +1,5 @@
 # label_propagation_weak_supervision
-Code repository for the paper "Label Propagation with Weak Supervision" (ICLR 2023)!
+Code repository for the paper [Label Propagation with Weak Supervision](https://arxiv.org/abs/2210.03594) (ICLR 2023)!
 
 ## Data 
 
